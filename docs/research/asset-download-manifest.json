@@ -1,0 +1,171 @@
+{
+  "target": "https://nebula.uy",
+  "downloaded": [
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/02/cropped-fav-1-32x32.png",
+      "outputPath": "public/sites/5/2026/02/cropped-fav-1-32x32.png"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/02/cropped-fav-1-180x180.png",
+      "outputPath": "public/sites/5/2026/02/cropped-fav-1-180x180.png"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/02/cropped-fav-1-192x192.png",
+      "outputPath": "public/sites/5/2026/02/cropped-fav-1-192x192.png"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/02/nebula-logo.svg",
+      "outputPath": "public/sites/5/2026/02/nebula-logo.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/03/sitio-web-basico.webp",
+      "outputPath": "public/sites/5/2026/03/sitio-web-basico.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/02/cropped-fav-1-270x270.png",
+      "outputPath": "public/sites/5/2026/02/cropped-fav-1-270x270.png"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/03/sitios-web-custom.webp",
+      "outputPath": "public/sites/5/2026/03/sitios-web-custom.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/03/ecommerce.webp",
+      "outputPath": "public/sites/5/2026/03/ecommerce.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/03/integraciones-ia.webp",
+      "outputPath": "public/sites/5/2026/03/integraciones-ia.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/03/soft-liviano.webp",
+      "outputPath": "public/sites/5/2026/03/soft-liviano.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/03/ux-ui.webp",
+      "outputPath": "public/sites/5/2026/03/ux-ui.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/asteroid.webp",
+      "outputPath": "public/sites/5/2025/04/asteroid.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/Logo-fiancar.png",
+      "outputPath": "public/sites/5/2025/04/Logo-fiancar.png"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/11/ingeino-logo.webp",
+      "outputPath": "public/sites/5/2025/11/ingeino-logo.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/asteroid-2.webp",
+      "outputPath": "public/sites/5/2025/04/asteroid-2.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/11/NS-logo.webp",
+      "outputPath": "public/sites/5/2025/11/NS-logo.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/logo-clinkky.png",
+      "outputPath": "public/sites/5/2025/04/logo-clinkky.png"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/11/logo_romy-white-60.webp",
+      "outputPath": "public/sites/5/2025/11/logo_romy-white-60.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/02/profile.png",
+      "outputPath": "public/sites/5/2026/02/profile.png"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/logo-inu.png",
+      "outputPath": "public/sites/5/2025/04/logo-inu.png"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2026/03/astronauta-480.webp",
+      "outputPath": "public/sites/5/2026/03/astronauta-480.webp"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/instagram.svg",
+      "outputPath": "public/sites/5/2025/04/instagram.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/linkedin.svg",
+      "outputPath": "public/sites/5/2025/04/linkedin.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/facebook.svg",
+      "outputPath": "public/sites/5/2025/04/facebook.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/X-1.svg",
+      "outputPath": "public/sites/5/2025/04/X-1.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/angel-list.svg",
+      "outputPath": "public/sites/5/2025/04/angel-list.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/product-hunt.svg",
+      "outputPath": "public/sites/5/2025/04/product-hunt.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/11/medium-fill-full.svg",
+      "outputPath": "public/sites/5/2025/11/medium-fill-full.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/youtube-icon-footer.svg",
+      "outputPath": "public/sites/5/2025/04/youtube-icon-footer.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/10/Sello-socio-Cuti_6.svg",
+      "outputPath": "public/sites/5/2025/10/Sello-socio-Cuti_6.svg"
+    },
+    {
+      "url": "https://nebula.uy/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+      "outputPath": "public/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/10/cem-logo.svg",
+      "outputPath": "public/sites/5/2025/10/cem-logo.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/05/flag-us.svg",
+      "outputPath": "public/sites/5/2025/05/flag-us.svg"
+    },
+    {
+      "url": "https://nebula.uy/wp-content/themes/Divi/includes/builder/styles/images/preloader.gif",
+      "outputPath": "public/wp-content/themes/Divi/includes/builder/styles/images/preloader.gif"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/06/whatsapp.png",
+      "outputPath": "public/sites/5/2025/06/whatsapp.png"
+    },
+    {
+      "url": "https://nebula.uy/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.ttf",
+      "outputPath": "public/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.ttf"
+    },
+    {
+      "url": "https://nebula.uy/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg",
+      "outputPath": "public/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg"
+    },
+    {
+      "url": "https://nebula.uy/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.woff",
+      "outputPath": "public/wp-content/themes/Divi/core/admin/fonts/modules/base/modules.woff"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/estrellas-purpuras.svg",
+      "outputPath": "public/sites/5/2025/04/estrellas-purpuras.svg"
+    },
+    {
+      "url": "https://bitskingdom.sfo3.digitaloceanspaces.com/sites/5/2025/04/estrellas-blancas.svg",
+      "outputPath": "public/sites/5/2025/04/estrellas-blancas.svg"
+    }
+  ],
+  "failed": [],
+  "totals": {
+    "attempted": 40,
+    "success": 40,
+    "failed": 0
+  }
+}
